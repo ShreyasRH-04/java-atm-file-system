@@ -68,5 +68,4 @@ ATM-File-System
 
 **Shreyas Hucche**  
 Information Technology Student  
-Trinity College, Pune
-
+Trinity Academy of Engineering, Pune
