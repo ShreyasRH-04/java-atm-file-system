@@ -32,15 +32,28 @@ The system stores user account data using **Java file handling (Object Serializa
 
 ## 📂 Project Structure
 
-ATM-File-System
-│
-├── src
-│   ├── Main.java
-│   ├── ATM.java
-│   └── User.java
-│
-└── users.dat (generated automatically)
+ATM/
+ ├── src/
+ │   ├── ATM.java
+ │   ├── Main.java
+ │   └── User.java
+ ├── .gitignore
+ └── README.md
+ 
 
+## How to Run
+
+1. Clone the repository
+   git clone https://github.com/ShreyasRH-04/java-atm-file-system
+
+2. Go to project folder
+   cd ATM/src
+
+3. Compile Java files
+   javac *.java
+
+4. Run the program
+   java Main
 
 
 ---
